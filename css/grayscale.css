@@ -37,6 +37,8 @@
   background-color: transparent;
 }
 
+
+
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 0;
@@ -100,9 +102,7 @@
   background-size: cover;
 }
 
-.disp-none{
-  display: none;
-}
+
 .masthead h1 {
   font-family: 'Varela Round';
   font-size: 2.5rem;
